@@ -1,0 +1,11 @@
+import math
+a1= float(input('a1= '))
+a2= float(input('a2= '))
+b1= float(input('b1= '))
+b2= float(input('b2= '))
+ab= a1*b1+a2*b2
+_a_= math.sqrt(a1**2+a2**2)
+_b_= math.sqrt(b1**2+b2**2)
+costh= ab/(_a_*_b_)
+goniath=90-(math.degrees(math.atan(a2/a1))+math.degrees(math.atan(b2/b1)))
+print(costh, goniath, sep=' ')            
