@@ -1,3 +1,5 @@
+#A program that reads a year and shows 'True' if the year is leap and 'False' if it isn't. No need to check if the input is actually a year.
+
 year = int(input('year = '))
 disekto = False
 if year%100==0:
