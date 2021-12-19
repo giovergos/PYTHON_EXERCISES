@@ -1,4 +1,8 @@
+#A program that reads the values of a1, a2, b1, b2 and calculates the cos(th) and the angle 'th' in degrees. The program shows the values of cos(th) and angle 'th'.
+#also in display there is an image of the vectors and axes
+
 import math
+
 a1= float(input('a1= '))
 a2= float(input('a2= '))
 b1= float(input('b1= '))
