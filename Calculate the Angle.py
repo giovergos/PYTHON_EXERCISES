@@ -1,4 +1,4 @@
-#A program that reads the values of a1, a2, b1, b2 and calculates the cos(th) and the angle 'th' in degrees. The program shows the values of cos(th) and angle 'th'.
+#A program that reads the values of a1, a2, b1, b2 and calculates the cos(th) and the angle 'th' in degrees. The program shows the values of cos(th) and angle 'th'. No need to check the inputs, consider that they are all numerals and !=0.
 #also in display there is an image of the vectors and axes
 
 import math
